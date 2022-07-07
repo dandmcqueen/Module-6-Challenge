@@ -37,11 +37,11 @@ Interactive visualization was used to help to determine investement opportunitie
 
 |<p align="center">San Francisco Neighborhoods: 2010 to 2016</p>|
 |---|
-|<p align="center"><img src="Images/lineplot.JPG" width=1200/></p>|
+|<p align="center"><img src="Images/lineplot.JPG" width=800/></p>|
 
 |<p align="center">Housing Units Per Year</p>|<p align="center">San Francisco Map</p>|
 |---|---|
-|<p align="right"><img src="Images/bar.JPG" width=600 height=400/></p>|<p align="left"><img src="Images/geoview.JPG" width=600 height=400/></p>|
+|<p align="center"><img src="Images/bar.JPG" width=400/></p>|<p align="center"><img src="Images/geoview.JPG" width=400/></p>|
 
 
 
