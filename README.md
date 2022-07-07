@@ -33,7 +33,7 @@ import hvplot.pandas
 
 ## Usage
 
-Interactive visualization was used to help to determine investement opportunities.
+Interactive visualization was used to help to determine investment opportunities.
 
 |<p align="center">San Francisco Neighborhoods: 2010 to 2016</p>|
 |---|
